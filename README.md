@@ -54,25 +54,41 @@ I enjoy working with data to identify patterns, solve problems, build dashboards
 
 ---
 
-## 📌 Featured Projects
+### 🤖 AI-Powered Profile Matching System
 
-### 🔹 AI-Powered Profile Matching System
+An AI-powered platform designed to match user profiles based on **shared interests and relevant profile information**.
 
-An AI-powered platform designed to match user profiles based on shared interests and relevant profile information.
+The project explores AI-based profile analysis and matching to identify users with similar interests.
 
 **Technologies:** Python • AI/ML • NLP • Web Technologies
 
-🔗 [View Project](https://github.com/Prathampoojary/ai-powered-connections-matching-profiles)
+🔗 [View Project](https://github.com/Prathampoojary/ai-powered-profile-matching)
 
 ---
 
-### 🔹 Resume Screening System
+## 📌 Featured Projects
 
-A resume screening application that analyzes resumes against job descriptions and generates a relevance/similarity score to assist with candidate screening.
+### 📄 Resume Screening System
 
-**Technologies:** Python • NLP • HTML • Machine Learning
+A resume screening application that analyzes **resumes against job descriptions** and generates a relevance/similarity score to assist with candidate screening.
+
+The project demonstrates the application of **NLP, text similarity, and machine learning concepts** to a real-world recruitment use case.
+
+**Technologies:** Python • NLP • Machine Learning • HTML
 
 🔗 [View Project](https://github.com/Prathampoojary/RESUME-SCREENING-SYSTEM)
+
+---
+
+### 🐾 Co-Exist AI — Autonomous Wildlife Monitoring System
+
+An AI-powered wildlife monitoring system designed for **animal detection, tracking, and automated monitoring** using computer vision and deep learning.
+
+The project includes model experimentation, custom model training, object detection, object tracking, and monitoring workflows.
+
+**Technologies:** Python • Computer Vision • YOLO • Deep Learning • ByteTrack
+
+🔗 [View Project](https://github.com/Prathampoojary/co-exist-ai-wildlife-monitoring)
 
 ---
 
