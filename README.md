@@ -53,6 +53,8 @@ I enjoy working with data to identify patterns, solve problems, build dashboards
 - Jupyter Notebook
 
 ---
+## 📌 Featured Projects
+
 
 ### 🤖 AI-Powered Profile Matching System
 
@@ -65,8 +67,6 @@ The project explores AI-based profile analysis and matching to identify users wi
 🔗 [View Project](https://github.com/Prathampoojary/ai-powered-profile-matching)
 
 ---
-
-## 📌 Featured Projects
 
 ### 📄 Resume Screening System
 
