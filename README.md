@@ -1,16 +1,122 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratham C
 
-<!--
-**Prathampoojary/Prathampoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | B.E. Artificial Intelligence & Machine Learning Graduate
 
-Here are some ideas to get you started:
+I’m an Artificial Intelligence & Machine Learning graduate passionate about **Data Analytics, Data Science, and turning data into meaningful insights**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to identify patterns, solve problems, build dashboards, and create data-driven solutions.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Analytics & Data Science
+- 🐍 Using Python for data analysis and automation
+- 🗄️ Working with SQL for data querying and analysis
+- 📈 Building interactive dashboards with Power BI
+- 🤖 Experience with Machine Learning and AI-based projects
+- 💼 Completed internships in Data Analytics and Data Science
+- 🚀 Continuously building projects to strengthen my analytical and technical skills
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Statistical Analysis
+
+### 🐍 Programming & Data Science
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Natural Language Processing
+- Resume Screening
+- AI-based Profile Matching
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI-Powered Profile Matching System
+
+An AI-powered platform designed to match user profiles based on shared interests and relevant profile information.
+
+**Technologies:** Python • AI/ML • NLP • Web Technologies
+
+🔗 [View Project](https://github.com/Prathampoojary/ai-powered-connections-matching-profiles)
+
+---
+
+### 🔹 Resume Screening System
+
+A resume screening application that analyzes resumes against job descriptions and generates a relevance/similarity score to assist with candidate screening.
+
+**Technologies:** Python • NLP • HTML • Machine Learning
+
+🔗 [View Project](https://github.com/Prathampoojary/RESUME-SCREENING-SYSTEM)
+
+---
+
+## 💼 Internship Experience
+
+### Data Science Intern — QSpiders
+
+Worked on Python, SQL, data analysis, and data science concepts while developing practical technical skills through hands-on learning and exercises.
+
+### Data Analytics Virtual Internship — Deloitte
+
+Completed practical data analytics tasks involving data investigation, analysis, and visualization while developing an understanding of how data can be used to support business decisions.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Visualization
+- Statistics for Data Analysis
+- Python for Data Analytics
+- Real-world Data Analytics Projects
+
+---
+
+## 🎯 Career Focus
+
+I am currently looking for opportunities where I can apply my skills in:
+
+**Data Analytics | Data Science | Business Intelligence | SQL | Python | Power BI**
+
+I’m interested in solving real-world business problems using data and continuously improving my technical and analytical skills.
+
+---
+
+## 🤝 Connect With Me
+
+📌 **LinkedIn:** www.linkedin.com/in/pratham-poojary-04318226b
+
+📌 **Portfolio:** Coming Soon
+
+📌 **GitHub:** [@Prathampoojary](https://github.com/Prathampoojary)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
